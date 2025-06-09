@@ -1,0 +1,6 @@
+pandas
+biopython
+beautifulsoup4
+requests
+streamlit
+openpyxl
